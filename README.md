@@ -2,6 +2,8 @@ Grupo 25
 Armando Vázquez
 Ailin Doria Orozco
 
-Committed :confused:
-Modified :runner:
-Staged :ribbon:
+- **__Committed__** :confused:
+
+* **__Modified__** :runner:
+
++ **__Staged__** :ribbon:
